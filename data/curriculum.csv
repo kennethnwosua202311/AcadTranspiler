@@ -1,0 +1,6 @@
+code,title,units,level,semester,prerequisites
+CSC101,Introduction to Computing,3,100,Alpha,
+CSC102,Programming Fundamentals,3,100,Omega,CSC101
+CSC201,Data Structures,3,200,Alpha,CSC102
+CSC301,Artificial Intelligence,3,300,Alpha,CSC201
+CSC401,Compiler Construction,3,400,Omega,CSC301

@@ -1,0 +1,34 @@
+CSC101
+Introduction to Computing
+3 Units
+100 Level
+Alpha Semester
+Prerequisites:
+
+CSC102
+Programming Fundamentals
+3 Units
+100 Level
+Omega Semester
+Prerequisites: CSC101
+
+CSC201
+Data Structures
+3 Units
+200 Level
+Alpha Semester
+Prerequisites: CSC102
+
+CSC301
+Artificial Intelligence
+3 Units
+300 Level
+Alpha Semester
+Prerequisites: CSC201
+
+CSC401
+Compiler Construction
+3 Units
+400 Level
+Omega Semester
+Prerequisites: CSC301
