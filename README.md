@@ -307,11 +307,7 @@ The README is the explanation.
 
 AcadTranspiler can be used with curriculum information from different institutions as long as the information is converted into its expected structure.
 
-For experimentation, I am using similar style of **Covenant University Computer Science programme information** as a real-world case-study dataset.
-
-This project is **independent and is not an official Covenant University system, product, or endorsement**.
-
-The Covenant dataset is used to explore how a real university curriculum can be represented in the structured format expected by AcadTranspiler.
+For experimentation, the repository includes a synthetic curriculum dataset whose structure is inspired by publicly available university programme tables, including Covenant University's published Computer Science programme structure. It is not Covenant University's curriculum.
 
 ---
 
