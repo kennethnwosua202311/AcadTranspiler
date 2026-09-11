@@ -1,7 +1,4 @@
 """ 🏫 AcadTranspiler."""
-# TODO: Find means to help users format text to match my curriculum
-# TODO: Use AI (GitHub Copilot) to transform my readme.md and design.md. For the README, let it contain a section for things i learned along the way. try to make it natural
-
 import sys
 import csv
 import re
