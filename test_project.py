@@ -185,5 +185,4 @@ assert build_dependency_graph([{
     "prerequisites": "CSC102"
   }]) == "CSC101 ➡  CSC102 ➡  CSC201"
 
-# I still don't get this testing stuff actually.
 # Well I'll still take CS50x and see if there could be any improvements.
